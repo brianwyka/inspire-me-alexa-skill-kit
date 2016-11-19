@@ -1,4 +1,4 @@
-# WorldCountries
-WorldCountries - Amazon Alexa Skill Kit
+# InspireMe
+InspireMe - Amazon Alexa Skill Kit
 
-A custom Amazon Alexa Skill Kit to find information about the countries of the world
+A custom Amazon Alexa Skill Kit to be inspire by a quote of the day
