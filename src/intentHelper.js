@@ -31,6 +31,10 @@ var intentHelper = (function () {
         intentHandlers["AMAZON.HelpIntent"] = function (intent, session, response) {
             responseHelper.handleHelp(response);
         };
+        intentHandlers["AMAZON.YesIntent"] = _inspireMeIntent;
+        intentHandlers["AMAZON.NoIntent"] = function (intent, session, response) {
+            responseHelper.handleExit(response);
+        };
         intentHandlers["AMAZON.StopIntent"] = function (intent, session, response) {
             responseHelper.handleExit(response);
         };

@@ -4,3 +4,9 @@ InspireMeIntent tell me an inspiring quote
 InspireMeIntent get the quote of the day
 InspireMeIntent lift my spirits
 InspireMeIntent make me feel better
+InspireMeIntent inspire me please
+InspireMeIntent inspiration
+InspireMeIntent what is my inspiration
+InspireMeIntent inspiration please
+InspireMeIntent get me going
+InspireMeIntent get me started
