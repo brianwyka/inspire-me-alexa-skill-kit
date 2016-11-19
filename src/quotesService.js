@@ -1,7 +1,7 @@
 'use strict';
 
 // Include required https library
-var https = require('https');
+var http = require('http');
 
 /**
  * Quotes API
@@ -23,7 +23,7 @@ var quotesService = (function () {
             port: _API_PORT,
             path: _API_PATH
         };
-        https.get(apiOptions, function (response) {
+        http.get(apiOptions, function (response) {
             var responseBody = '', 
                 quoteData = {},
                 quote = "";
@@ -46,8 +46,7 @@ var quotesService = (function () {
     };
 
     /**
-     * Get the array of countries based on a region
-     * @param region - the region to find countries in
+     * Get the quote of the day
      * @param callback - the function to execute as callback
      */
     var getQuoteOfTheDay = function (callback) {

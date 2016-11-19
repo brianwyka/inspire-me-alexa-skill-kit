@@ -6,7 +6,7 @@ var quotesService = require('./quotesService'),
     responseHelper = require('./responseHelper');
 
 /**
- * Intent helper for WorldCountries
+ * Intent helper for InspireMe
  */
 var intentHelper = (function () {
 

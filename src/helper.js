@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * Helper for Inspire Me
+ * Helper for InspireMe
  */
 var helper = (function () {
     
