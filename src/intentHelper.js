@@ -1,7 +1,7 @@
 'use strict';
 
 // Include required dependencies
-var restCountries = require('./restCountries'),
+var quotesService = require('./quotesService'),
     helper = require('./helper'),
     responseHelper = require('./responseHelper');
 
