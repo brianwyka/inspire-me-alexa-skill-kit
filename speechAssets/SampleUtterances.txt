@@ -1,0 +1,6 @@
+InspireMeIntent inspire me
+InspireMeIntent cheer me up
+InspireMeIntent tell me an inspiring quote
+InspireMeIntent get the quote of the day
+InspireMeIntent lift my spirits
+InspireMeIntent make me feel better
