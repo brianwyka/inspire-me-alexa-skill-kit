@@ -1,0 +1,23 @@
+{
+  "name": "inspire-me-alexa-skill-kit",
+  "version": "1.0.0",
+  "description": "Inspire Me Alexa Skill Kit",
+  "main": "src/index.js",
+  "contributors": [
+    "Brian Wyka"
+  ],
+  "dependencies": {
+    "aws-sdk": "^2.4.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wykapedia/inspire-me-alexa-skill-kit.git"
+  },
+  "keywords": [
+    "Inspire",
+    "Me"
+  ],
+  "author": "wykapedia.org",
+  "license": "MIT"
+}
